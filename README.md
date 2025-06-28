@@ -7,4 +7,4 @@
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/guilherme-satoru-inuzuka-nakaharada-48a05a303/)  
-- [Email](guinaka2006@gmail.com)
+- Email: guinaka2006@gmail.com
