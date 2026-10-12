@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou Guilherme Satoru Inuzuka Nakaharada
+# 👋 Olá! Eu sou Guilherme Nakaharada
 
-🎓 Estudante de Ciência da Computação — atualmente no 3º período  
+🎓 Estudante de Ciência da Computação — atualmente no 6º período  
 💻 Apaixonado por tecnologia, programação e resolver problemas com código  
 🌱 Aprendendo mais sobre: Java, C, estrutura de dados  
 🚀 Se aventurando nas diversas áreas da computação
